@@ -1,6 +1,6 @@
 # MediaEscola
 
-Calculando Media Escolar
+Calculando Média Escolar
 
 Reprovado
 
