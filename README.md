@@ -1,6 +1,6 @@
 # MediaEscola
 
-Calculando Média Escolar
+#Calculando Média Escolar usando Javascript
 
 Reprovado
 
