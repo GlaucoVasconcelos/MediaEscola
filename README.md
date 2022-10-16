@@ -4,6 +4,6 @@ Calculando Media Escolar
 
 Reprovado
 
-Recuperaao
+Recuperação
 
 Aprovado
